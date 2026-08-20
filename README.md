@@ -5,7 +5,7 @@
 ### about me myself and i
 
 - 🔭 currently working on testing / evaluating models
-- 🌱 currently learning MLOps
+- 🌱 currently learning MLOps (but also delving into web/widget funsies)
 - 📫 reach me on linkedin: Stephanie P.
-- ⚡ random add: i write fantasy-adventure novels, i like the color purple & pink, i like collecting figurines, and i am always powered by caffeine
+- ⚡ random things: i write fantasy-adventure novels, i like the color purple & pink, i like collecting figurines, and i am always powered by caffeine
 
