@@ -9,6 +9,6 @@
 
 - 🔭 currently working on testing / evaluating models
 - 🌱 currently learning MLOps (but also delving into web/widget funsies)
-- 📫 reach me on linkedin: Stephanie P.
+- 📫 reach me on linkedin: Stephanie P. (@tephani)
 - ⚡ random things: i write fantasy-adventure novels, i like the color purple & pink, i like collecting figurines, and i am always powered by caffeine
 
