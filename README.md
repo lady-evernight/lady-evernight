@@ -1,14 +1,5 @@
-<table>
-<tr>
-<td>
-<h2>halo, welcome!!</h2>
-</td>
-<td width="100">
 <img align="right" src="me.png" width="100" style="border-radius: 50%;">
-</td>
-</tr>
-</table>
-
+<h1>halo, welcome!!</h1>
 <h3 align="center">AI/ML Research & Engineering</h3>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=building+ML+models+for+fun;exploring+LLMs+and+MLOps;always+learning%2C+always+building+lololol" /></p>
 
